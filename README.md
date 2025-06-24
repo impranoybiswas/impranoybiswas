@@ -2,7 +2,7 @@
 
 <!-- Cover Photo -->
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2024/11/13/08/47/city-9193823_1280.jpg" alt="Cover Banner" style="width: 100%; border-radius: 15px;" />
+  <img src="./assets/cover.png" alt="Cover Banner" style="width: 100%; border-radius: 15px;" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Pranoy Biswas</h1>
@@ -58,8 +58,25 @@
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/impranoybiswas)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:impranoybiswas@gmail.com)
+
+<p>
+  <a href="https://github.com/impranoybiswas" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a> 
+  <a href="https://twitter.com/impranoybiswas" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a> 
+  <a href="https://www.linkedin.com/in/impranoybiswas" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="https://www.facebook.com/impranoybiswas" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  </a> 
+  <a href="impranoybiswas@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
