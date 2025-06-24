@@ -17,7 +17,7 @@
 - 🌱 Constantly exploring new tools, technologies, and better ways to solve problems.
 - 💼 I enjoy collaborating on open-source and client projects that make a difference.
 - 📫 Reach me at: **impranoybiswas@gmail.com**
-- 🌐 Portfolio: [https://impranoybiswas.github.io](https://impranoybiswas.github.io)
+- 🌐 Portfolio: [https://impranoybiswas.netlify.app](https://impranoybiswas.netlify.app)
 
 ---
 
