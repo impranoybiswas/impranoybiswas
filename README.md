@@ -5,8 +5,6 @@
   <img src="./assets/cover.png" alt="Cover Banner" style="width: 100%; border-radius: 15px;" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Pranoy Biswas</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;Code+Lover+%26+Creative+Thinker;Lifelong+Learner+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
@@ -61,21 +59,22 @@
 
 <p>
   <a href="https://github.com/impranoybiswas" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a> 
   <a href="https://twitter.com/impranoybiswas" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+    <img alt="X" src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" />
   </a> 
   <a href="https://www.linkedin.com/in/impranoybiswas" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
   <a href="https://www.facebook.com/impranoybiswas" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a> 
-  <a href="impranoybiswas@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:impranoybiswas@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 
 ---
