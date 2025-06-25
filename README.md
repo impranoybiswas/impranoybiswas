@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=18c6f5&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;Code+Lover+%26+Creative+Thinker;Lifelong+Learner+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=18c6f5&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Code+Lover+%26+Creative+Thinker;Lifelong+Learner+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
@@ -29,6 +29,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-266b82?style=flat&logo=react)
+![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=nextdotjs)
 
 #### 🖥️ Backend
 
