@@ -52,8 +52,8 @@
 
 | Project                                                                   | Tech Stack           | Description                                                     |
 | ------------------------------------------------------------------------- | -------------------- | --------------------------------------------------------------- |
-| [**MERN Blog Platform**](https://github.com/impranoybiswas/mern-blog)     | React, Node, MongoDB | Full-featured blog with authentication, comments, and dashboard |
-| [**Portfolio Website**](https://github.com/impranoybiswas/portfolio-site) | React, Framer Motion | Personal portfolio with animations and responsive design        |
+| [**Share Bite Websapp**](https://share-bite-pranoy.netlify.app/) | React, Node, Framer Motion MongoDB | Full-featured blog with authentication, comments, and dashboard |
+| [**Work Nest Website**](https://work-nest-pranoy.netlify.app/) | React, Node, Mongo DB  | Personal portfolio with animations and responsive design        |
 
 ---
 
