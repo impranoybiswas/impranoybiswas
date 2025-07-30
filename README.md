@@ -17,7 +17,7 @@
 - 🌱 Constantly exploring new tools, technologies, and better ways to solve problems.
 - 💼 I enjoy collaborating on open-source and client projects that make a difference.
 - 📫 Reach me at: **impranoybiswas@gmail.com**
-- 🌐 Portfolio: [https://impranoybiswas.netlify.app](https://impranoybiswas.netlify.app)
+- 🌐 Portfolio: [Live Link](https://impranoybiswas.vercel.app)
 
 ---
 
@@ -58,8 +58,9 @@
 
 | Project                                                                   | Tech Stack           | Description                                                     |
 | ------------------------------------------------------------------------- | -------------------- | --------------------------------------------------------------- |
-| [**Share Bite Websapp**](https://share-bite-pranoy.netlify.app/) | React, Node, Framer Motion MongoDB | Full-featured blog with authentication, comments, and dashboard |
-| [**Work Nest Website**](https://work-nest-pranoy.netlify.app/) | React, Node, Mongo DB  | Personal portfolio with animations and responsive design        |
+| [**Tower Edge**](https://tower-edge-pranoy.netlify.app/) | React, Node, Firebase, MongoDB | Full-featured apartment management with authentication and dashboard |
+| [**Share Bite**](https://share-bite-pranoy.netlify.app/) | React, Node, Framer Motion MongoDB | Full-featured food sharing app with authentication |
+| [**Work Nest**](https://work-nest-pranoy.netlify.app/) | React, Node, Mongo DB  | Frelancing Task Bid and job site with animations and responsive design        |
 
 ---
 
