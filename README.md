@@ -58,9 +58,9 @@
 
 | Project                                                                   | Tech Stack           | Description                                                     |
 | ------------------------------------------------------------------------- | -------------------- | --------------------------------------------------------------- |
-| [**Tower Edge**](https://tower-edge-pranoy.netlify.app/) | React, Node, Firebase, MongoDB | Full-featured apartment management with authentication and dashboard |
-| [**Share Bite**](https://share-bite-pranoy.netlify.app/) | React, Node, Framer Motion MongoDB | Full-featured food sharing app with authentication |
-| [**Work Nest**](https://work-nest-pranoy.netlify.app/) | React, Node, Mongo DB  | Frelancing Task Bid and job site with animations and responsive design        |
+| [**Tower Edge**](https://tower-edge-pranoy.netlify.app/) | React, Tailwind, Node, Firebase, MongoDB | Full-featured apartment management with authentication and dashboard |
+| [**Share Bite**](https://share-bite-pranoy.netlify.app/) | React, Tailwind, Node, Framer Motion MongoDB | Full-featured food sharing app with authentication |
+| [**Work Nest**](https://work-nest-pranoy.netlify.app/) | React, Tailwind, Node, Mongo DB  | Frelancing Task Bid and job site with animations and responsive design        |
 
 ---
 
