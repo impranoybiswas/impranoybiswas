@@ -49,8 +49,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=impranoybiswas&show_icons=true&theme=radical" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impranoybiswas&layout=compact&theme=radical" height="170" alt="Top Languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=impranoybiswas&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="impranoybiswas" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=impranoybiswas&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
