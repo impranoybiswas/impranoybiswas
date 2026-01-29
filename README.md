@@ -25,22 +25,23 @@
 
 #### 💻 Frontend
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-e5e5e5?style=flat&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-266b82?style=flat&logo=react)
-![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=nextdotjs)
+![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 
 #### 🖥️ Backend
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+
+#### 🗄️ Database & Cloud
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-166316?style=flat&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-FF9100?style=flat&logo=firebase)
-
-#### 🔑 Authentication
-
 ![Firebase](https://img.shields.io/badge/-Firebase-FF9100?style=flat&logo=firebase)
 
 ---
@@ -56,11 +57,11 @@
 
 ### 🚀 Featured Projects
 
-| Project                                                                   | Tech Stack           | Description                                                     |
-| ------------------------------------------------------------------------- | -------------------- | --------------------------------------------------------------- |
-| [**Tower Edge**](https://tower-edge-pranoy.netlify.app/) | React, Tailwind, Node, Firebase, MongoDB | Full-featured apartment management with authentication and dashboard |
-| [**Share Bite**](https://share-bite-pranoy.netlify.app/) | React, Tailwind, Node, Framer Motion MongoDB | Full-featured food sharing app with authentication |
-| [**Work Nest**](https://work-nest-pranoy.netlify.app/) | React, Tailwind, Node, Mongo DB  | Frelancing Task Bid and job site with animations and responsive design        |
+| Project                                                  | Tech Stack                                    | Description                                                             |
+| -------------------------------------------------------- | --------------------------------------------- | ----------------------------------------------------------------------- |
+| [**Tower Edge**](https://tower-edge-pranoy.netlify.app/) | React, Tailwind, Node, Firebase, MongoDB      | Full-featured apartment management with authentication and dashboard    |
+| [**Share Bite**](https://share-bite-pranoy.netlify.app/) | React, Tailwind, Node, Framer Motion, MongoDB | Full-featured food sharing app with authentication                      |
+| [**Work Nest**](https://work-nest-pranoy.netlify.app/)   | React, Tailwind, Node, MongoDB                | Freelancing Task Bid and job site with animations and responsive design |
 
 ---
 
