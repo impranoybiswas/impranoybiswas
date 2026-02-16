@@ -60,14 +60,14 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=impranoybiswas&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="Pranoy's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impranoybiswas&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=impranoybiswas&show_icons=true&theme=radical" alt="Pranoy's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impranoybiswas&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=impranoybiswas&theme=radical&hide_border=true&background=00000000" alt="Pranoy's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=impranoybiswas&theme=radical" alt="Pranoy's GitHub Streak" />
 </div>
 
 ---
