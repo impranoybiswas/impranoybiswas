@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=18c6f5&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Code+Lover+%26+Creative+Thinker;Lifelong+Learner+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=18c6f5&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Code+Lover+%26+Creative+Thinker;Lifelong+Learner" alt="Typing SVG" />
 </div>
 
 ---
@@ -60,13 +60,6 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=impranoybiswas&show_icons=true&theme=radical" alt="Pranoy's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impranoybiswas&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=impranoybiswas&theme=radical" alt="Pranoy's GitHub Streak" />
 </div>
 
@@ -74,7 +67,7 @@
 
 ### 🚀 Featured Projects
 
-| Project                                                       | Tech Stack                                         | Description                                                              |
+| Live Link                                                      | Tech Stack                                         | Description                                                              |
 | :------------------------------------------------------------ | :------------------------------------------------- | :----------------------------------------------------------------------- |
 | [**Gadget Hunter**](https://gadget-hunter-pranoy.vercel.app/) | NextJS, Tailwind, NextAuth, Framer Motion, MongoDB | Full-featured e-commerce website with authentication and payment gateway |
 | [**Dev Logs**](https://dev-logs-pranoy.vercel.app/)           | NextJS, Tailwind, NestJS, Framer Motion, Supabase  | A job tracking app for developers with connections.                      |
