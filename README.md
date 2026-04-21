@@ -2,8 +2,7 @@
 
 <!-- Cover Photo -->
 <div align="center">
-  <img src="./assets/cover.png" alt="Cover Banner" width="100%" />
-  <img src="./assets/github_video.gif" alt="Cover Animation" width="100%" />
+  <img src="./assets/cover-animation.gif" alt="Cover Animation" width="100%" style="border-radius: 10px;" />
 </div>
 
 <div align="center">
@@ -69,7 +68,7 @@
 
 ### 🚀 Featured Projects
 
-| Live Link                                                      | Tech Stack                                         | Description                                                              |
+| Live Link                                                     | Tech Stack                                         | Description                                                              |
 | :------------------------------------------------------------ | :------------------------------------------------- | :----------------------------------------------------------------------- |
 | [**Gadget Hunter**](https://gadget-hunter-pranoy.vercel.app/) | NextJS, Tailwind, NextAuth, Framer Motion, MongoDB | Full-featured e-commerce website with authentication and payment gateway |
 | [**Dev Logs**](https://dev-logs-pranoy.vercel.app/)           | NextJS, Tailwind, NestJS, Framer Motion, Supabase  | A job tracking app for developers with connections.                      |
