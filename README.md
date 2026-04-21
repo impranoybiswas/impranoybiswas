@@ -3,10 +3,11 @@
 <!-- Cover Photo -->
 <div align="center">
   <img src="./assets/cover.png" alt="Cover Banner" width="100%" />
+  <img src="./assets/github_video.gif" alt="Cover Animation" width="100%" />
 </div>
 
 <div align="center">
-<video autoplay muted playsinline src="./assets/github_video.mp4"></video>
+
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=18c6f5&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Code+Lover+%26+Creative+Thinker;Lifelong+Learner" alt="Typing SVG" />
 </div>
 
