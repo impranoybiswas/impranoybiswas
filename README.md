@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Pranoy Biswas -->
 
 <!-- Cover Photo -->
-<div align="center">
+<div align="center" style="border-radius: 10px; overflow: hidden;">
   <img src="./assets/cover-animation.gif" alt="Cover Animation" width="100%" style="border-radius: 10px;" />
 </div>
 
@@ -99,7 +99,3 @@
 </div>
 
 ---
-
-<div align="center">
-  Made with ❤️ by <strong>Pranoy Biswas</strong>
-</div>
