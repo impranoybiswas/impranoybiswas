@@ -1,14 +1,10 @@
 <!-- GitHub Profile README for Pranoy Biswas -->
 
-<!-- Cover Photo -->
-<svg width="100%" viewBox="0 0 800 300">
-  <defs>
-    <clipPath id="round">
-      <rect x="0" y="0" width="800" height="300" rx="20" ry="20"/>
-    </clipPath>
-  </defs>
-  <image href="./assets/cover-animation.gif" width="800" height="300" clip-path="url(#round)" />
-</svg>
+<!-- Edge Round Cover Photo -->
+<div align="center">
+  <img src="./assets/cover-animation.gif" alt="Cover Animation" width="100%" />
+</div>
+<br/>
 
 <div align="center">
 
@@ -103,4 +99,3 @@
   </a>
 </div>
 
----
